@@ -1,6 +1,6 @@
 # ⚡Electricity Load Forecasting
 
-A dissertation project focused on developing and comparing three forecasting models — ARMA, Kernel Ridge Regression (KRR), and Long Short-Term Memory (LSTM) — to predict short-term electricity demand using real-world data from Germany. The project evaluates model accuracy, complexity, and practical use in energy forecasting.
+A dissertation project focused on developing and comparing three forecasting models: ARMA, Kernel Ridge Regression (KRR), and Long Short-Term Memory (LSTM), to predict short-term electricity demand using real-world data from Germany. The project evaluates model accuracy, complexity, and practical use in energy forecasting.
 
 ---
 
